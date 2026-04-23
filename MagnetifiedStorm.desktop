@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Magnetified Storm
+Exec=/bin/hue_storm.sh
+Icon=preferences-desktop-color
+Terminal=false
+Type=Application
+Categories=Utility;
